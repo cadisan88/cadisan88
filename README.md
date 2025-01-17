@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Carlos A. Diaz (@cadisan88) a back-end oriented software developer with about 5 years of experience and more than 7 years in IT area.
-- 🌱 I’m currently learning Golang and improving my PHP and Java skills.
-- 💞️ I’m looking to collaborate on any open source project.
+- 👋 Hi, I’m Carlos A. Diaz (@cadisan88) a back-end-oriented software developer with about 9 years of experience and more than 11 years in the IT area.
+- 🌱 I’m currently learning Vue.js and improving my PHP and Java skills.
+- 💞️ I’m looking to collaborate on any open-source project.
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/carlos-andres-diaz).
 
 <!---
